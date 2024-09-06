@@ -1,6 +1,6 @@
 # Consent Parser Variable for Google Tag Manager Server Container
 
-TBD
+Use https://openapi.analytics-debugger.com/ui/#/decode/decodeConsentModeV2 to decode the consent string.
 
 ## Open Source
 
