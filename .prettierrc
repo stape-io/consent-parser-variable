@@ -1,4 +1,6 @@
 {
   "singleQuote": true,
-  "printWidth": 1000
+  "trailingComma": "none",
+  "tabWidth": 2,
+  "printWidth": 100
 }

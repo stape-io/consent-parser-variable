@@ -1,6 +1,6 @@
 # Consent Parser Variable for Google Tag Manager Server Container
 
-Use https://openapi.analytics-debugger.com/ui/#/decode/decodeConsentModeV2 to decode the Google Consent Mode V2 consent string.
+Use https://openapi.analytics-debugger.com/ui/#/decode/decodeConsentModeV2 to decode the Google Consent Mode V2 consent string (`gcd` parameter).
 
 ## Useful Resources:
 
@@ -8,7 +8,7 @@ Use https://openapi.analytics-debugger.com/ui/#/decode/decodeConsentModeV2 to de
 
 ## Open Source
 
-Consent Parser Variable for GTM Server Side is developing and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
+Consent Parser Variable for GTM Server Side is developed and maintained by [Stape Team](https://stape.io/) under the Apache 2.0 license.
 
 ### GTM Gallery Status
 🟢 [Listed](https://tagmanager.google.com/gallery/#/owners/stape-io/templates/consent-parser-variable)
